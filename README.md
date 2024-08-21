@@ -66,7 +66,7 @@
 |   5   |             | VR 방탈출                       |        |        | 손준표, 손현진                         | [링크](https://trello.com/b/9LepTTbM/my-trello-board)                            |
 |   6   |             | VR 잡입액션(aka.메탈기어솔리드) |        |        | 박찬빈, 이다현                         | [링크](https://trello.com/b/o6AMJUUw/gca-project)                                |
 |   7   |             | 총기분해조립 교육 시뮬레이션    |        |        | 강영우, 김성중, 김현준                 | [링크]()                                                                         |
-|   8   |             | SKY PIRATES (aka 1945)          |        |        | 이정후, 김우현                         | [링크](https://trello.com/b/84OApGUK/ace-pilot)                                  |
+|   8   |  초보운전  | Ace Pilot          |        |        | 이정후, 김우현                         | [링크](https://trello.com/b/84OApGUK/ace-pilot)                                  |
 |   9   | Auguest Pro | 미정                            |        |        | 이정우, 서주민, 대여운                 | [링크](https://trello.com/b/4bxTSn6u/unityproject2024augustpro)                  |
 
  
